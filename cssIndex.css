@@ -1,6 +1,10 @@
 :root{
     --speed : 5 ; 
 }
+
+body {
+width :100% ;
+}
 .machine
 {
     background-color: peru;
